@@ -29,9 +29,7 @@
     
     <!-- ios -->
     <platform name="ios">
-        <config-file target="res/xml/config.xml" parent="/*">
-			<preference name="AllowInlineMediaPlayback" value="true" />
-        </config-file>
+<preference name="AllowInlineMediaPlayback" value="true"/>
     </platform>
     
 </plugin>
